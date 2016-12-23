@@ -1,13 +1,12 @@
 # Dependencies
-highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            stngl.net
-tagline:          'Martin Stengel'
+title:            mstengel
+tagline:          'Engineer, JW, Minimalist '
 description:      'Mitteilsame Spur im Netz'
 url:              blog.stngl.net
 baseurl:          /
