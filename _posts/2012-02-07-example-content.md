@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Example content
+categories: [snippet, jwtech]
+tags: [android, science]
+description: Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+comments: true
 ---
 
 
