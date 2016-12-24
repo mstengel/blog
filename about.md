@@ -4,27 +4,17 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  ich bin Martin Stengel und das hier ist meine mitteilsame Spur im Netz. Hier vermischen sich bebilderte Erinnerungen und Statusmeldungen mit dem, was mir von anderen gefällt.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Ich bin Ingenieur im Anlagenbau, gemeinnützig tätig als Bibellehrer, beseelt von der Idee offener Software und freien Daten (Engagement bei openstreetmap.org), bemüht um einen nachhaltigen Gebrauch von Ressourcen einschließlich meiner Zeit, interessiert an Nachhaltigkeit, Minimalismus, Fotografie, individueller Musik, dem Draußensein, daneben hobbymäßig hinter der Kamera, auf dem Fahrrad oder am Klavier. Ich lebe mit meiner Frau gerne zwischen den Meeren und kann mich für das Naheliegende begeistern. Fotos, die ich gemacht habe gibt es hier, ungeformte Notizen sortiere ich [dort](http://stngl.net/notes) ein.
 
-There are currently two themes built on Poole:
+## Achtung privat!
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Dieses Blog gibt unter anderem persönliche Erinnerungen und Geschmäcker wieder. Vor allem mit dem Zweck, dass ich selbst alles an einem Fleck parat habe. Ich beanspruche in keinster Weise Relevanz für jedermann. Wer mich nicht kennt oder kennen möchte, wird mit manchem nicht viel anfangen können. Allen anderen wünsche ich viel Spaß beim stöbern und kommentieren.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Impressum
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Martin Stengel
+Friedrichstraße 14A
+25767 Albersdorf
