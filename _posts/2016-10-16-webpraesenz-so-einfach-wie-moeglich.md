@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Webpräsenz so einfach wie möglich
 categories: [article]
 tags: [HowTo, Logbuch]
 description: 
