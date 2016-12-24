@@ -3,7 +3,7 @@ layout: post
 title: SD-Karte als Adopted Storage
 categories: [snippet]
 tags: [Android, HowTo, LinkDump]
-description: 
+description: Ein paar Links dazu, wie die Speicherkarte unter Android verwendet wird mit welchen Schwierigkeiten deren Erneuerung einhergeht.
 comments: true
 ---
 
