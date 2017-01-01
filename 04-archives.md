@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /archives/
 title: Alle Posts
 ---
 
