@@ -13,7 +13,7 @@ title: Tags
       {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
       <li>
           <a href="#{{ this_word | replace:' ','-' }}-ref" >
-            {{ this_word }}<span>&#91; {{ site.tags[this_word].size }} &#93;</span>
+            {{ this_word }}<span>  &#91; {{ site.tags[this_word].size }} &#93;</span>
          </a>
       </li>
    {% endunless %}{% endfor %}
