@@ -2,7 +2,7 @@
 layout: post
 title: 📷 Draußen 
 categories: [snippet]
-tags: [photo, outdoor, daily, walk, home] 
+tags: [photo, outdoor, daily, walk, home, personal] 
 comments: true
 ---
 
