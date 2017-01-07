@@ -3,7 +3,7 @@ layout: post
 title: ♻ Tim Cook on Privacy and Apple Pay
 categories: [snippet]
 description: In diesem Punkt ist Apple tatsächlich glaubwürdiger als diejenigen Unternehmen, deren Produkt personenbezogene Daten sind, die sie an Werbekunden verkaufen. Hierbei kommen Google & Facebook wirklich nicht gut weg. Dennoch ist auch Apple natürlich bestrebt sein System aus "unwichtigen" (weil nicht umsatzrelevanten) Services drumherum möglichst geschlossen zu bewahren.
-tags: [technology, privacy]
+tags: [technology, privacy, comment]
 comments: true
 ---
 
