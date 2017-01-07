@@ -2,7 +2,7 @@
 layout: post
 title: Berufseinstieg hinter den Kulissen
 categories: [article]
-tags: [Beruf, Logbuch]
+tags: [Beruf, Logbuch, personal]
 description: 
 comments: true
 ---
