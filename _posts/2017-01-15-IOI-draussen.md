@@ -6,7 +6,7 @@ tags: [photo, outdoor, daily, walk, personal, dog]
 comments: true
 ---
 
-Der liebe Hund bringt einen auch bei Minusgraden vor die Tür. Und das lohnt sich. Weiße Winter sind es nicht unbedingt, die einen da erwarten, aber immerhin ein bisschen Eis, klare Luft, blauer Himmel und eine ordentlich Erfrischung. Den Hund interessiert es auch.
+Der liebe Hund bringt einen auch bei Minusgraden vor die Tür. Und das lohnt sich. Weiße Winter sind es nicht unbedingt, die einen da erwarten, aber immerhin ein bisschen Eis, klare Luft, blauer Himmel und eine ordentlich Erfrischung. Dem Hund gefällt es auch.
 
 ![](http://stngl.net/foto/uploads/big/6874cb5dfc25efc0a401bd3e53b33730.jpg)
 
