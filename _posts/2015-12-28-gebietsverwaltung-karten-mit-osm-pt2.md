@@ -20,14 +20,14 @@ Alle Arbeitsschritte werden Anhand der freien und kostenfrei erhältlichen Softw
     * Mithilfe des Freihandlinien-Werkzeugs (F6) den Gebietsumriss zeichnen. Dazu an einer Ecke des Gebiets kurz klicken, um den ersten Punkt klicken, dann den Cursor an den Endpunkt der gewünschten Linie klicken – es ergibt sich eine gerade Linie. Dann mit dem weiterhin aktiven Werkzeug über den Endpunkt der ersten Linie fahren, sodass dieser Rot hervorgehoben wird und dann mit einem einfachen Klick den Startpunkt für die nächste Linie setzen usw.. Auf diese Weise den Umriss des Gebiets zeichnen und den Endpunkt der letzten Linie auf den Startpunkt der ersten setzen. ![Screenshot](http://stngl.net/assets/201512/thg_karten_screen011.png)
     * Falls etwas an dem Umriss geändert werden muss kann dies einfach mit dem Knoten-Werkzeug bewerkstelligt werden (F2). Hier können Punkte des Umrisses markiert und verschoben, aber auch gelöscht usw. werden.
     * Als nächstes müssen die optischen Eigenschaften dieses neuen Objekts auf gute Erkennbarkeit getrimmt werden. Dazu das Umriss-Objekt mit dem Auswahl-Werkzeug (F1) markieren, dann per Rechtsklick den Dialog „Füllung und Kontur aufrufen“. Folgende Einstellungen haben sich als günstig erwiesen.
-      * Über den Schieberegler unten sollte die **Deckkraft** der gesamten Ebene auf 60% gesenkt werden. Das sorgt für eine ansehnliche Integration in den Kartenhintergrund. </br> ![Screenshot](http://stngl.net/assets/201512/thg_karten_Auswahl_008.png)
+      * Über den Schieberegler unten sollte die **Deckkraft** der gesamten Ebene auf 60% gesenkt werden. Das sorgt für eine ansehnliche Integration in den Kartenhintergrund.  ![Screenshot](http://stngl.net/assets/201512/thg_karten_Auswahl_008.png)
       * Im Reiter **„Füllen“** wiederum den Reiter „RGB“ wählen. Hier mit den Farbwerten (0;0;255) ein sattes Blau einstellen. Mit Blick auf die Farben des Kartenmaterials kann hierdurch ein guter Kontrast erzielt werden. Der vierte Wert (Alpha-Wert) gibt die Deckkraft der Füllung an. Diese muss im Vergleich zur Kontur nochmals deutlich abgesenkt werden. Eine dezente Füllung des Areals, was am Ende das Gebiet darstellt, trägt zur Deutlichkeit der Darstellung bei und ist empfehlenswert. Hier den Wert 50 eingeben.
-      * Im Reiter „Farbe der Kontur“ mit (0;0;255) die selbe Farbe wie für die Füllung einstellen, den Alpha-Wert aber bei 255 belassen. </br> ![Screenshot](http://stngl.net/assets/201512/thg_karten_Auswahl_009.png)
-      * Im Reiter „Muster der Kontur“ muss eigentlich nur die Breite auf 3px erhöht werden.Damit ist ein Gebiet eingezeichnet. Auf diese Weise können nun alle weiteren Gebiete für den Stadtteil, der in dem Kartenausschnitt abgebildet wird, eingezeichnet werden. Nicht vergessen: Jedes Gebiet muss in einer gesonderten Ebene angelegt werden. </br> ![Screenshot](http://stngl.net/assets/201512/thg_karten_Auswahl_010.png)
+      * Im Reiter „Farbe der Kontur“ mit (0;0;255) die selbe Farbe wie für die Füllung einstellen, den Alpha-Wert aber bei 255 belassen.  ![Screenshot](http://stngl.net/assets/201512/thg_karten_Auswahl_009.png)
+      * Im Reiter „Muster der Kontur“ muss eigentlich nur die Breite auf 3px erhöht werden.Damit ist ein Gebiet eingezeichnet. Auf diese Weise können nun alle weiteren Gebiete für den Stadtteil, der in dem Kartenausschnitt abgebildet wird, eingezeichnet werden. Nicht vergessen: Jedes Gebiet muss in einer gesonderten Ebene angelegt werden.  ![Screenshot](http://stngl.net/assets/201512/thg_karten_Auswahl_010.png)
       * Falls es versehentlich passiert, dass zwei Gebietsumrisse in dieselbe Ebene geraten, so kann der zu verschiebende Umriss ausgewählt und mit (Strg + X) ausgeschnitten werden. Danach kann das Einfügen in die korrekte Ebene mit (Strg + V) erfolgen. Oftmals muss die Linie dann manuell an die richtige Stelle geschoben werden.
       * Überaus hilfreich für das Einzeichnen mehrerer Gebiete ist die Funktion, die Eigenschaften eines Objekts (in diesem Fall Füllung und Kontur) auf ein anderes zu übertragen. Dazu das Vorbild mit (Strg + C) kopieren, das Objekt, auf das es die Eigenschaften zu übertragen gilt, anwählen, um die Eigenschaften dann mit (Umschalt + Strg + V) zu übertragen.
-      * Beim Einzeichnen der Gebiete muss Eindeutigkeit gewährleistet sein. Dies gilt insbesondere, wenn nur einzelne Straßenseiten (statt z.B. eines ganzen Straßenblocks) zu einem Gebiet gehören sollen. Außerdem sollte es vermieden werden Umrisse über Straßennamen zu zeichnen. Im Notfall können Straßennamen verschoben werden. Unten ein Beispiel bei dem diese empfehlenswerten Regeln eingehalten worden sind. </br> ![Screenshot](http://stngl.net/assets/201512/thg_karten_screen012.png)
-    * Um die Übersicht nicht zu verlieren, ist es sinnvoll eine **Beschriftung** der einzelnen Gebiete einzufügen. </br> ![Screenshot](http://stngl.net/assets/201512/thg_karten_screen013.png)
+      * Beim Einzeichnen der Gebiete muss Eindeutigkeit gewährleistet sein. Dies gilt insbesondere, wenn nur einzelne Straßenseiten (statt z.B. eines ganzen Straßenblocks) zu einem Gebiet gehören sollen. Außerdem sollte es vermieden werden Umrisse über Straßennamen zu zeichnen. Im Notfall können Straßennamen verschoben werden. Unten ein Beispiel bei dem diese empfehlenswerten Regeln eingehalten worden sind.  ![Screenshot](http://stngl.net/assets/201512/thg_karten_screen012.png)
+    * Um die Übersicht nicht zu verlieren, ist es sinnvoll eine **Beschriftung** der einzelnen Gebiete einzufügen.  ![Screenshot](http://stngl.net/assets/201512/thg_karten_screen013.png)
       * Da die Beschriftung nur für diese Gesamtdatei eine Rolle spielt (die Beschriftung für die einzelnen Karten wird anders vorgenommen, siehe unten), kann die Beschriftung für alle abgebildeten Gebiete in einer gemeinsamen Ebene „Beschriftung“ erfolgen. Diese muss über allen anderen liegen, also im Ebenen-Fenster an oberster Stelle stehen.
       * Eine solche Nummern-Beschriftung besteht aus einem Rechteck (Rechteck-Werkzeug, F4), mit den Eigenschaften: Deckkraft 85%, Unschärfe 55; Kontur: Breite 0; Füllung: weiß
       * Darüber wird ein Textfeld gelegt (Textobjekt-Werkzeug, F8), schwarz mit voller Deckkraft.
@@ -58,10 +58,12 @@ Auf diese Weise bleiben alle eingetragenen Gebietsgrenzen gültig und an der ric
 
 Die Erfahrung in Verbindung mit der Erstellung von Gebietskarten zeigt, dass die Darstellung der OpenStreetMap-Karten in höheren Maßstäben (z.B. 1:50.000), wie sie für die Darstellung von flächigen Landgebieten nützlich wären, nicht unbedingt geeignet ist. Die Art der Renderung der Daten hebt Details wie z.B. verstreute Häusersammlungen nicht gut genug hervor.
 
-![OSM](http://stngl.net/assets/201512/thg_karten_vergleich_OSM50.png)
 _OSM 1:50000_
-![DTK50](http://stngl.net/assets/201512/thg_karten_vergleich_TOPO50.png)
+![OSM](http://stngl.net/assets/201512/thg_karten_vergleich_OSM50.png)
+
 _Ausschnitt aus den offiziellen digitalen Karten des Landesvermessungsamts (DTK50)_
+![DTK50](http://stngl.net/assets/201512/thg_karten_vergleich_TOPO50.png)
+
 
 Vorteilhaft an topografischen Karten ist u.a. die Beschriftungsgröße, die kontrastreiche Gesamtdarstellung und die zuverlässige Darstellung von alleinstehenden Einzelgebäuden. Hingegen sind zum Beispiel Straßennamen in diesem Maßstab nicht enthalten. Hintergrund totographische Karte (von [hier](https://opentopomap.org/about)):
 
@@ -80,7 +82,7 @@ Um die Karten der Flächen- / Landgebiete, wie oben erklärt zu erstellen, ist e
 
 1. **Ermittlung der Gradnetzkoordinaten** der Grenzen des zu betrachtenden Areals. Das geht zum Beispiel innerhalb der oben beschriebenen Openstreetmap.org-Exportfunktion. Die einmal festgelegten Daten unbedingt aufschreiben!
 1. **Ermittlung der Kachelnummern** - Der Download des Kartenmaterials erfolgt in kleinen Bildern á 256x256 pixel, den sog. Kacheln. Diese sind weltweit durchnummeriert. Die Errechnung des Kachelnummernbereichs ist vom Vergrößerungsfaktor (Zoom-Level abhängig) - Hintergründe gibt es [hier](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames). Durchführen kann die Umrechnung anhand der zuvor ermittelten Grenzen des Ausschnittes z.B. hier: [http://oms.wff.ch/calc.php](http://oms.wff.ch/calc.php)
-1. Erzeugen des PNGs - Per Script müssen die Kacheln heruntergeladen und zu einem einzigen, großen Bild zusammengefügt werden. Dazu werden dort der Kachelbereich in X- und Y-Richtung eingetragen, sowie die Zoom-Stufe. Für den hier betrachteten Zweck ist 14 am besten geeignet.
+1. **Erzeugen des PNGs** - Per Script (siehe unten) müssen die Kacheln heruntergeladen und zu einem einzigen, großen Bild zusammengefügt werden. Dazu werden dort der Kachelbereich in X- und Y-Richtung eingetragen, sowie die Zoom-Stufe. Für den hier betrachteten Zweck ist 14 am besten geeignet.
 
 ~~~ bash
 #!/bin/bash 
@@ -116,8 +118,8 @@ montage -limit thread 8 -limit memory 30000MB -mode concatenate -tile "$((X2-X1+
 
 Die Verarbeitung und Einzeichnung der Gebietskarten doch genauso erfolgen, denn die Vektor-Grafik-Programme können in den Ebenen auch Rastergrafiken handhaben. Dazu unter 'Inkscape' in einem neuen Dokument die Größe in Pixeln auf die des zuvor erzeugten Bildes bringen (über "Datei" > "Dokumenteneinstellungen"), über das Ebenenmenenü eine neue Ebene hinzufügen (diese z.B. OpenTopo-Z14 nennen) und dann die Grafik importieren ("Datei" > "Importieren"). Ab hier können die einzelnen Gebiete genauso eingezeichnet werden, wie oben für Vektor-Grafiken beschrieben.
 
-![OpenTopo](http://stngl.net/assets/201512/thg_karten_vergleich_Opentopo.png)
 _Derselbe Kartenausschnitt wie oben mit dem Material von OpenTopo mit einigen Gebietsgrenzen. Diese wurden hier aufgrund des etwas anderen Farbspektrums der topografischen Karten in rot gehalten_
+![OpenTopo](http://stngl.net/assets/201512/thg_karten_vergleich_Opentopo.png)
 
 Teil 3 beschäftigt sich mit der Erstellung der einzelnen Gebietskarten.
 
