@@ -3,7 +3,7 @@ layout: post
 title: Ruhe, Wasser, Platz - ein Plädoyer für das Leben auf dem Land
 categories: [snippet]
 tags: [Landleben, Outdoor]
-desription: Alles, was sich dazu sagen lässt, können nur Vermutungen sein. Ich vermute also, dass es ganz andere Prioritäten sein werden, um die es bei künftigen Verteilungskämpfen geht. Knapp, selten, teuer und begehrenswert sind im Zeichen des wuchernden Konsums nicht schnelle Automobile und goldene Armbanduhren, Champagnerkisten und Parfums, Dinge, die an jeder Straßenecke zu haben sind, sondern elementare Lebensvoraussetzungen wie Ruhe, gutes Wasser und genügend Platz. Merkwürdige Umkehrung einer Logik der Wünsche: Der Luxus der Zukunft verabschiedet sich vom Überflüssigen und strebt nach dem Notwendigen, von dem zu befürchten ist, dass es nur noch den Wenigsten zu Gebote stehen wird. Das, worauf es ankommt, hat kein Duty Free Shop zu bieten.
+description: Alles, was sich dazu sagen lässt, können nur Vermutungen sein. Ich vermute also, dass es ganz andere Prioritäten sein werden, um die es bei künftigen Verteilungskämpfen geht. Knapp, selten, teuer und begehrenswert sind im Zeichen des wuchernden Konsums nicht schnelle Automobile und goldene Armbanduhren, Champagnerkisten und Parfums, Dinge, die an jeder Straßenecke zu haben sind, sondern elementare Lebensvoraussetzungen wie Ruhe, gutes Wasser und genügend Platz. Merkwürdige Umkehrung einer Logik der Wünsche: Der Luxus der Zukunft verabschiedet sich vom Überflüssigen und strebt nach dem Notwendigen, von dem zu befürchten ist, dass es nur noch den Wenigsten zu Gebote stehen wird. Das, worauf es ankommt, hat kein Duty Free Shop zu bieten.
 comments: true
 ---
 
