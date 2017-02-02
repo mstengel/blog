@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Ruhe, Wasser, Platz … ein Plädoyer für das Leben auf dem Land
+title: Ruhe, Wasser, Platz - ein Plädoyer für das Leben auf dem Land
 categories: [snippet]
 tags: [Landleben, Outdoor]
 desription: Alles, was sich dazu sagen lässt, können nur Vermutungen sein. Ich vermute also, dass es ganz andere Prioritäten sein werden, um die es bei künftigen Verteilungskämpfen geht. Knapp, selten, teuer und begehrenswert sind im Zeichen des wuchernden Konsums nicht schnelle Automobile und goldene Armbanduhren, Champagnerkisten und Parfums, Dinge, die an jeder Straßenecke zu haben sind, sondern elementare Lebensvoraussetzungen wie Ruhe, gutes Wasser und genügend Platz. Merkwürdige Umkehrung einer Logik der Wünsche: Der Luxus der Zukunft verabschiedet sich vom Überflüssigen und strebt nach dem Notwendigen, von dem zu befürchten ist, dass es nur noch den Wenigsten zu Gebote stehen wird. Das, worauf es ankommt, hat kein Duty Free Shop zu bieten.
+comments: true
 ---
 
 _Enzensberger zur Frage, ob privater Luxus Zukunft hat, aus: Hans Magnus Enzensberger (geb. 1929): Luxus - woher, und wohin damit? (Auszug)_
@@ -12,7 +13,6 @@ Alles, was sich dazu sagen lässt, können nur Vermutungen sein. Ich vermute als
 
 Merkwürdige Umkehrung einer Logik der Wünsche: Der Luxus der Zukunft verabschiedet sich vom Überflüssigen und strebt nach dem Notwendigen, von dem zu befürchten ist, dass es nur noch den Wenigsten zu Gebote stehen wird. Das, worauf es ankommt, hat kein Duty Free Shop zu bieten:
 
-<!--more-->
 ### Die Zeit.
 Sie ist das wichtigste aller Luxusgüter. Bizarrerweise sind es gerade die Funktionseliten, die über ihre eigene Lebenszeit am wenigsten frei verfügen können. Das ist nicht in erster Linie eine quantitative Frage, obwohl viele Angehörige dieser Schicht bis zu achtzig Stunden in der Woche arbeiten; viel eher sind es ihre vielfältigen Abhängigkeiten, die sie versklaven. Man erwartet von ihnen, dass sie jederzeit erreichbar sind und auf Abruf bereitstehen. Im übrigen sind sie an Terminkalender gebunden, die auf Jahre hinaus in die Zukunft reichen. Aber auch andere Berufstätige sind an Regelungen gebunden, die ihre Zeitsouveränität auf ein Minimum beschränken. Arbeiter hängen von Maschinenlaufzeiten, Hausfrauen von absurden Ladenschlusszeiten, Eltern von den Verfügungen der Schule ab, und fast alle sind auf Pendelfahrten zu den Spitzenverkehrszeiten angewiesen. Unter solchen Bedingungen lebt luxuriös, wer stets Zeit hat, aber nur für das, womit er sich beschäftigen will, und wer selber darüber entscheiden kann, was er mit seiner Zeit tut, wie viel er tut, wann und wo er es tut.
 
