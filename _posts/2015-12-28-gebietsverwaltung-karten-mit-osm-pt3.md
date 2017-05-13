@@ -13,7 +13,7 @@ comments: true
 
 Einzelne Gebietskarten stellen wiederum einen Ausschnitt aus den zuvor erstellten Ausgangsdateien dar, in denen nur der Umriss eines einzelnen Gebiets zu sehen ist, sowie ein Teil der Umgebung, um beim Gebrauch eine schnelle Zuordnung zu gewährleisten.
 
-Die exportierten Bilddateien sollten immer dasselbe Seitenverhältnis haben, um auf der gedruckten Karte immer denselben Platz einzunehmen. Wie groß dieser sein soll, hängt von der gewählten Aufteilung ab. Es ist aber durchaus empfehlenswert, die gesamte Vorderseite der Karte dem Kartenausschnitt zu widmen und alle weiteren Angaben auf der Rückseite unterzubringen. Auch wenn das Layout der alten braunen Gebietskarte (S-12-X) nicht mehr bindend ist, ist es doch empfehlenswert das Grundformat beizubehalten. Es ist handlich und passt in die vorhandenen Klarsichthüllen. Das Format ist 14,55 x 9,4 mm, das Seitenverhältnis beträgt also 1:1,55.
+Die exportierten Bilddateien sollten immer dasselbe Seitenverhältnis haben, um auf der gedruckten Karte immer denselben Platz einzunehmen. Wie groß dieser sein soll, hängt von der gewählten Aufteilung ab. Es ist aber durchaus empfehlenswert, die gesamte Vorderseite der Karte dem Kartenausschnitt zu widmen und alle weiteren Angaben auf der Rückseite unterzubringen. Auch wenn das Layout der alten braunen Gebietskarte (S-12-X) nicht mehr bindend ist, ist es doch empfehlenswert das Grundformat beizubehalten. Es ist handlich und passt in die vorhandenen Klarsichthüllen. Das Format ist 14,90 x 9,40 cm, das Seitenverhältnis beträgt also 1:1,5841.
 
 Hierfür braucht es in der Basisdatei eine neue Ebene namens „Export“, die in vorderster Ebene liegen muss. In diese wird mit dem Viereckwerkzeug um ein beliebiges Gebiet ein Rechteck eingezeichnet, das über den Dialog „Füllung und Kontur“ so gestaltet wird, dass es ohne Füllung und mit einer schmale, gestrichelte Linie hat.
 
@@ -73,3 +73,5 @@ Wenn die Vorderseite auf entsprechend starkem Karton gedruckt worden ist, kann d
 ![Screenshot](http://stngl.net/assets/201512/thg_karten_screen021.png)
 
 Fragen oder Anregungen bitte in die Kommentare.
+
+_-- Last update: 13-Mar-2017
