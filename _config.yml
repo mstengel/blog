@@ -9,7 +9,7 @@ title:            mstengel
 tagline:          'Mitteilsame Spur im Netz'
 description:      'Engineer, JW, Minimalist'
 url:              blog.stngl.net
-baseurl:          /
+baseurl:          blog.stngl.net/
 
 author:
   name:           'Martin Stengel'
