@@ -1,15 +1,54 @@
 {% if page.comments %}
 
-<form method="POST" action="https://api.staticman.net/v2/entry/mstengel/blog/gh-pages/comments">
-  <!--<input name="options[redirect]" type="hidden" value="https://my-site.com">-->
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
+{% if site.data.comments[page.slug] %}
+
+  <h3>
+    {% if site.data.comments[page.slug].size > 1 %}
+      {{ site.data.comments[page.slug] | size }}
+    {% endif %}
+    Comments:
+  </h3>
+
+  <p>
+  <hr>
+
+  {% assign comments = site.data.comments[page.slug] | sort %}
+
+  {% for comment in comments %}
+    <br>
+    <legend><strong>{{ comment[1].name }}</strong><legend>
+    <em>{{ comment[1].date | date: "%B %d, %Y" }}</em>
+    <p>{{ comment[1].message | markdownify }}
+    <hr>
+  {% endfor %}
+  <p>
+{% endif %}
+
+<!-- Comment form -->
+<h3>Kommentar:</h3>
+<form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+  <input name="options[redirect]" type="hidden" value="http://blog.stngl.net">
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <label><textarea name="fields[message]"></textarea>Message</label>
+  <div>
+    <legend>Name</legend>
+    <input name="fields[name]" type="text">
+  </div>
+  <div>
+    <legend>E-mail (optional)</legend>
+    <input name="fields[email]" type="email">
+  </div>
+  <div>
+    <legend>Message (<a href="https://kramdown.gettalong.org/syntax.html">kramdown</a> markup allowed)</legend>
+    <textarea style="width:100%" name="fields[message]" rows="12"></textarea>
+  </div>
   
-  <button type="submit">Go!</button>
+  <div>
+    <legend><em>Comments will appear after moderation.</em></legend>
+    <button type="submit">Submit Comment</button>
+  </div>
 </form>
+
+<!-- Based on: http://idiologos.netlify.com/2017/03/20/jekyll-and-staticman.html -->
 
 <!-- Add Disqus comments.
 
