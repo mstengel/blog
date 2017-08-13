@@ -18,19 +18,19 @@ Antwort vom 24. April 2017 auf Bitte um Probefahrt per Website:
 
 > vielen Dank für Interesse an dem Neuen Ampera E.
 Der Ampera E ist derzeit noch nicht verfügbar. Wir können Ihnen eine Vorab-Broschüre zukommen lassen oder Sie melden sich unter folgendem Link für den Newsletter zum Verkaufsstart an: www.opel.de/ampera-e
-
+>
 > Wir werden Sie gerne weiterhin informieren, sobald wir Neues in Sachen E-Mobilität erfahren. Für den Fall, dass wir Ihnen etwas per Post senden dürfen, bräuchten wir noch Ihre Anschrift.
 
 Einige Zeit später, am 23. Juni 2017 eine erfreuliche Möglichkeit:
 
 > Vielen Dank für Ihr Interesse am neuen Opel Ampera-E.
-
+>
 > Aufgrund der hohen Nachfrage hat sich die Adam Opel GmbH dazu entschieden ein Onlineregistrierungsportal einzuführen. Dieses wird am 24.06.2017 für Sie geöffnet. Dort haben Sie dann die Möglichkeit sich einen Ampera-E zu reservieren. Die Zuteilung der für den deutschen Markt vorgesehenen Ampera-E wird die Adam Opel GmbH nach Eingang der Reservierungen an uns, zur weiteren Bearbeitung, weiterleiten.
-
+>
 > Bei einer Reservierung wird eine Anzahlung in Höhe von 1000 Euro fällig, die bei einer erfolgreichen Produktionszuteilung entsprechend verrechnet wird. Sollten Sie während der Wartezeit von der Reservierung zurücktreten wollen, wird Ihnen die geleistete Anzahlung selbstverständlich erstattet.
-
+>
 > Sobald uns genauere Informationen zu diesem Thema vorliegen, werden wir uns umgehend mit Ihnen in Verbindung setzten.
-
+>
 > Sofern ein Ampera-E für eine Testfahrt zur Verfügung steht, werden wir Sie unverzüglich per E-Mail kontaktieren. Bei Vorlage einer Reservierungsnummer werden Sie bevorzugt zu einer Probefahrt eingeladen. 
 
 Ich habe dann zuerst verschlafen, danach etwas gezögert, weil als Zahlungsmethode nur PayPal angeboten wurde und auch nicht ganz klar war, ob Kauf oder Leasing angeboten wird. Nach kurzer Zeit (ungefähr 3 Wochen) war die Möglichkeit wieder abgeschaltet:
@@ -40,13 +40,13 @@ Ich habe dann zuerst verschlafen, danach etwas gezögert, weil als Zahlungsmetho
 Ganz überraschend am 09. August 2017:
 
 > Sicherlich wissen Sie um die aktuelle Liefersituation beim Ampera-E und das kleine Kontingent in 2017 und 2018. Aktuell haben wir die Chance ein zusätzliches Auto für Bestellung und Lieferung 2017 zu bekommen. Ich schreibe Sie als erstes an, da Sie zu den ersten Interessenten in unserem Haus gehören.
-
-Bei konkreten Interesse wenden Sie sich bitte zeitnah an mich. Die Konditionen haben sich nicht geändert und das Auto steht nur im Leasing zur Verfügung. Da es nur ein zusätzliches Auto geben wird, lautet die Devise "FIRST IN, FIRST OUT".
+>
+> Bei konkreten Interesse wenden Sie sich bitte zeitnah an mich. Die Konditionen haben sich nicht geändert und das Auto steht nur im Leasing zur Verfügung. Da es nur ein zusätzliches Auto geben wird, lautet die Devise "FIRST IN, FIRST OUT".
 
 Meine Antwort ein paar Stunden später:
 
 > Vielen Dank für die gute Nachricht, auch wenn ich mir nicht sicher bin, wie groß der Kreis der Empfänger und damit die Chance ist. Ja, unsererseits besteht weiterhin ernsthaftes Interesse. Auch wenn diese Mangelwirtschaft an längst vergangene Zeiten erinnert - das Produkt spricht für sich. Bitte halten Sie uns auf dem Laufenden. Von welchen Terminen reden wir hier? Wie läuft das dann ab?
-
+>
 > Können Sie uns bitte vorab noch über die Leasing-Konditionen aufklären, denn die wurden mir noch nicht unterbreitet.
 
 Das Ergebnis am Abend: 
