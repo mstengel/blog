@@ -22,3 +22,10 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/mstengel/blog
+
+# Name of repository, for use with Staticman
+repository: "mstengel/blog"
+
+# Staticman comments (see staticman.yml for configuration).
+staticman:
+  branch: "gh-pages"
