@@ -50,7 +50,7 @@ _Einmal Block mit alles bitte_
 
 _Mein Blog wie es zuletzt mit Wordpress und dem tollen Template [Independet Publisher](http://independentpublisher.me/) aussah_
 
-Auf **Pico-CMS** bin ich vor nicht allzu langer Zeit gestoßen und habe damit auch ein klitzekleines Projekt umgesetzt. Und eigentlich finde ich das richtig gut:
+Auf **Pico-CMS** bin ich vor nicht allzu langer Zeit gestoßen und habe damit auch ein klitzekleines Projekt umgesetzt. Und eigentlich fand ich das richtig gut:
 
   * Läuft mit dem sehr schlanken [Pico CMS](http://picocms.org/), braucht keine Datenbank, nur PHP
   * Das CMS ist nicht aufs Blog beschränkt, wie erforderliche Funktionen implementiert werden, ist in der Dokue beschrieben; für das Listing gibt es ein [Pagination Plugin](https://github.com/rewdy/Pico-Pagination)
@@ -71,10 +71,14 @@ Diese simple Lösung setzt natürlich voraus, dass ich meine Erwartung etwas anp
 
 Natürlich habe keine Garantie, dass die Reise an diesem Punkte zu Ende ist. Dennoch soll dieser Rückblick die Sache für mich etwas fixieren. Zur Technischen Basis dieser Website.
 
-Diese Lösung basiert auf [GitHub Pages](https://pages.github.com/) das weiderum von [Jekyll](http://jekyllrb.com/) befeuert wird, bei dem es sich um den Urvater der statischen HTMl-Generatoren handelt. Mit [Poole](http://getpoole.com/) habe ich es mir etwas einfacher gemacht. Weiteres wird an dieser Stelle folgen.
+Diese Lösung basiert auf [GitHub Pages](https://pages.github.com/) das weiderum von [Jekyll](http://jekyllrb.com/) befeuert wird, bei dem es sich um den Urvater der statischen HTML-Generatoren handelt. Mit [Poole](http://getpoole.com/) habe ich es mir etwas einfacher gemacht.
+
+[Update, 29.8.2017] Kommentare haben nun auch auf eine hinreichend minimalistische Weise Einzug gehalten: Mit [Staticman](https://staticman.net/docs/index.html) und dank [dieser Anleitung](http://idiologos.netlify.com/2017/03/20/jekyll-and-staticman.html). Damit wird jeder Kommentare zu einem Beitrag der in dem GitHub-Repository dieses Blogs und dann entsprechend unter den Artikel dargestellt. Damit muss nichts externen nachgeladen werden. 
+
+Weiteres wird an dieser Stelle folgen.
 
 ## Noch zu tun
 
-Eine Möglichkeit für Kommentare soll hier noch Einzug halten, nach Möglichkeit nicht _Disqus_; Ich denke eher an [_Hashover_](http://tildehash.com/?page=hashover) oder [_jskomment_](https://github.com/monperrus/jskomment).
+<del>Eine Möglichkeit für Kommentare soll hier noch Einzug halten, nach Möglichkeit nicht _Disqus_; Ich denke eher an [_Hashover_](http://tildehash.com/?page=hashover) oder [_jskomment_](https://github.com/monperrus/jskomment).</del>
 
-Außerdem sollen Bilder per Klick größer werden, dabei der Alternativtext als Bildunterschrift erscheinen und die Bilder in einem Beitrag per Caroussel durchsehbar sein, na ja, wir werden sehen ... 
+Bilder sollen per Klick größer werden, dabei der Alternativtext als Bildunterschrift erscheinen und die Bilder in einem Beitrag per Caroussel durchsehbar sein, na ja, wir werden sehen ... 
