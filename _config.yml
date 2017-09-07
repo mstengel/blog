@@ -23,6 +23,10 @@ version:          2.1.0
 github:
   repo:           https://github.com/mstengel/blog
 
+plugins:
+  - jekyll-feed
+
+
 # Name of repository, for use with Staticman
 repository: "mstengel/blog"
 
