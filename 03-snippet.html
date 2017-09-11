@@ -1,16 +1,19 @@
 ---
-layout: default
-title: Home
+layout: page
+permalink: /snippet/
+title: Snippets
 ---
 
+<p class="message">Kleinere Beiträge, die entweder aus nur wenigen eigenen Inhalten bestehen oder einfach nur Fundstücke oder kleine Statusmeldungen umfassen.</p>
+
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.categories.snippet %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
