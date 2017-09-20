@@ -9,7 +9,7 @@ comments: true
 
 Draußensein gehört für uns zum Urlaub dazu. Ein paar Mal waren wir zusammen Zelten und sind begeistert von der Nähe zum Drumherum, den Menschen, die man dabei kennenlernen kann und dem auf das Nötigste reduzierte Lebensstandard. Jedoch: eine richtige Routine haben wir noch nicht entwickelt. Routine in dem Sinne, dass wir das jedes Jahr machen würden, genau wüssten wie und womit und unsere Liste an erreichten Zielen jetzt einfach und kontinuierlich um neue Destinationen erweitern würden. Ein bisschen liegt das am Wetter in Zentraleuropa, das zuletzt nicht gerade mit planungssicheren Sommern aufwartet - Janne ist recht temperaturempfindlich und braucht es am liebsten eine Spur zu heiß, damit sie sich so richtig wohlfühlt. Und Regen ist für niemanden, der draußen übernachtet, schön. So wuchs der Gedanke an ein etwas massiveres Outdoor-Gehäuse á la Reisemobil (Oberbegriff).
 
-![draußen](https://stngl.net/assets/2017-09/Camp-draussen.JPG)
+![draußen](https://stngl.net/assets/201709/Camp-draussen.JPG)
 
 Im Hinterkopf angesammelte Vorteile:
   * Gutes Bett, dass es an einem Migränetag notfalls erlaubt den ganzen Tag darin zu verbringen und das Urlaubsgefühl nicht ganz auf ein Minimum zu reduzieren. Nebenbei bietet ein Reisemobil auch Rückzugsraum für Kälte oder Regen, was Zelte in aufrechter Haltung erst ab einer ziemlichen Größe erlauben.
@@ -26,12 +26,12 @@ Nach diverser Web-Recherche zum Thema wurde mir dann irgendwo eine Anzeige für 
   * **Nicht spießig** oder Zuhauseersatz
   * Platz für uns beide und ggf. 1 bis 2 weitere Personen als Gäste.
 
-![Caravan Salon Panorama](https://stngl.net/assets/2017-09/Camp - IMG_20170902_120020.jpg)
+![Caravan Salon Panorama](https://stngl.net/assets/201709/Camp - IMG_20170902_120020.jpg)
 _Hallenfüllender Stand eines der größten Hersteller_
 
 Vieles auf der Messe ist eher für die, die oben zusammengefassten Klischee in mir reifen ließen: Wohnwagen über 9 Meter, Vollintegrierte von noch größerer Länge (in größter Ausbaustufe, dann auf Busgestell, auch gerne mit Kleinwagengarage) und gelecktem Schicki-Micki-Innerem, Vorzeltlandschaften usw. Zwischen der riesigen Anzahl an Ausstellungsfahrzeugen verteilte sich denn auch ein großer Anteil solcher, die die Mitte des Lebens schon hinter sich gelassen hatten und vieles mit kennendem Blick zu beurteilen wussten. Und viele schritten in den stillen Ecken der Hersteller auch zum Abschluss und oder Finanzierung obwohl einen die aufgerufenen Preise grundsätzlich mit den Ohren schlackern lassen. Nun will ich hier nicht die Nase rümpfen, denn trotz des Bildes, was man mit dem prominent vertretenen traditionellen Hersteller verbinden mag, war das Spektrum recht weit und das Publikum auch reich an Familien, jüngeren Leuten und Anfängern, sodass wir uns nicht falsch aufgehoben fühlten.
 
-![Monster](https://stngl.net/assets/2017-09/Camp - IMG_20170902_140200.jpg)
+![Monster](https://stngl.net/assets/201709/Camp - IMG_20170902_140200.jpg)
 _Joa, kann man machen ... muss aber nicht_
 
 ## Nun aber zu den gewonnenen Erkenntnissen
@@ -40,18 +40,18 @@ _Joa, kann man machen ... muss aber nicht_
 
 **CUVs (Camping Utility Vehicles) oder Kastenwagen** Das sind 3.5 Tonnen Transporter (MB Sprinter, Fiat Dobló, VW Crafter usw.), deren Laderaum zum Reisemobil ausgebaut werden. Die haben uns positiv überrascht. Sie bieten ordentlich Platz für vier und sehen von außen aber ziemlich normal aus. Anders als beim klassischen Wohnmobil gibt es nicht nur eine schmale Tür nach außen, sondern eine große Schiebetür (die in der Regel nebenbei die Küche halb nach außen öffnet) und die Hecktüren, wie man das eben vom Transporter kennt (hier kann man nicht aussteigen, weil die Betten i.d.R. davor sind, sondern es gibt Stauraum und eine große Portion Draußengefühl). Einschränkung: bei den meisten Modellen sind die Betten quer eingebaut und da kann ich nicht liegen. Mit längs eingebauten Betten schrumpft die Auswahl, während die Fahrzeuglänge wächst.   Der Grundriss aller Modelle dieser Gattung ist sich ziemlich ähnlich, aber in der Art der Gestaltung gibt es Freiheiten. Auch bei den Basisfahrzeugen lässt sich alles mögliche auswählen, auch die Offroadversionen der Hersteller mit Stollenreifen und so. Jedoch sind diese Fahrzeuge einzig für den Zweck des darin Übernachtens gemacht (man kann nicht viel ausbauen) und die Hersteller rufen ab 60.000 Euro aufwärts auf.😱 Für's Mieten wollen wir diese Gattung aber ggf. im Hinterkopf behalten. 
 
-![Knaus Boxlife 630 innen](https://stngl.net/assets/2017-09/Camp - CUV - Knaus Boxlife 630.jpg)
+![Knaus Boxlife 630 innen](https://stngl.net/assets/201709/Camp - CUV - Knaus Boxlife 630.jpg)
 _So könnte es aussehen in einem CUV zu erwachen_ [(c)Knaus Tabbert GmbH](https://www.knaus.com/de-de/kastenwagen/boxlife-630/interieur/)
 
-![Knaus Boxlife 630 außen](https://stngl.net/assets/2017-09/Camp - CUV - Knaus Boxlife 630 a.jpg)
+![Knaus Boxlife 630 außen](https://stngl.net/assets/201709/Camp - CUV - Knaus Boxlife 630 a.jpg)
 _Nicht klein, aber trotzdem beinahe unauffällig_ [(c)Knaus Tabbert GmbH](https://www.knaus.com/de-de/kastenwagen/boxlife-630/highlights/)
 
 **Van** und damit sind hier kleinere Transporter wie VW T6, MB Vito oder Renault Traffic gedacht. Für diese Gattung scheinen Lösungsvielfalt und Ideenreichtum am ausgeprägtesten zu sein, um in diesem relativ kompakten Fahrzeugen die Unterbringung für bis zu vier Personen zu ermöglichen. Am besten gelingt das mit Hilfe eines Aufstelldaches. Denn das bietet Schlafplatz für zwei und die Offenheit eines Zeltes (gerade wenn man die Fensterfolien ganz öffnet). Das Gefühl wirklich draußen zu sein wird noch dadurch verstärkt, dass natürlich Schiebetür und und Heckklappe vorhanden sind. Im Fahrzeug selbst sind weitere Schlafplätze, Küche usw. untergebracht. Oft ist das alles modular gestaltet, sodass man den Küchenbaustein vor Ort nach draußen stellen kann, was die Nachwirkungen von Bratarbeiten deutlich reduzieren dürfte. Noch dazu ermöglicht die Modulidee viele der Campingeinbauten zu entfernen und das Auto im Alltag "normal" zu nutzen. Unterstützt wird das bei einigen Anbietern durch ein Schienensystem für Module und Sitze. Uns ist sogar der Claim "nicht des schlechtere Zweitauto, sondern den besseren Erstwagen" zu liefern über den Weg gelaufen. All das ist untergebracht in einem unauffälligen und kompakten Wagen, der sich schneller und handlicher durch die Welt bewegen und parken lässt, als z.B. ein Anhänger-Gespann. Diese Gattung bleibt der Sieger der Herzen. Denn die meisten sind in ihrer Benutzung schon darauf ausgelegt, dass man, gerade mit mehr als 2 Personen an Bord, das Draußen irgendwie nutzen _muss_ (Tür auf, Vordach usw.). Eine Möglichkeit einer Nasszelle besteht nicht, sondern maximal ein Chemieklo und eine Duschbrause, die man dann im oder am Van ohne weitere Abtrennung nutzen kann. Ferner ist natürlich die Anschaffung des Basisfahrzeugs mit einzupreisen, sodass der Einstieg hier bei 50.000 EUR zu sehen ist. Ungeachtet der Nutzungsmöglichkeiten im Alltag würde es doch unser Interesse in Richtung Elektro-Zweitwagen konterkarrieren, wenn wir stattdessen einen VW-Bus durch den Alltag bewegen würden.
 
-![](https://stngl.net/assets/2017-09/Camp - IMG_20170903_130720.jpg)
+![](https://stngl.net/assets/201709/Camp - IMG_20170903_130720.jpg)
 _Oben wie im Zelt und erfreulich luftig (im [Kompanja](https://www.kompanja.de/der-van/der-ausbau/)) ..._
 
-![](https://stngl.net/assets/2017-09/Camp - Kompanja innen.jpg)
+![](https://stngl.net/assets/201709/Camp - Kompanja innen.jpg)
 _... Unten recht praktisch und doch nicht weit weg vom Alltagsauto_ [(c)Kompanja](https://www.kompanja.de/der-van/der-ausbau/)_
 
 Als vielversprechendste Gattung bleibt also der **Caravan**, sprich Wohnanhänger. Hier ist auf jeden Fall der Einstieg schon mit etwas über 10.000 EUR zu machen, denn man kauft ja nur eine Wohnkabine auf Rädern, während der private Fahrzeugbestand unangetastet bleibt (so ein Anhänger sollte sich in unserer Gegend bei Nichtgebrauch in irgendeiner Halle unterstellen lassen) und umgekehrt die Ausrüstung jederzeit abfahrtbereit wartet. Naturgemäß hat so ein Wohnanhänger noch allerhand Stauraum und auch die Fahrräder lassen sich da irgendwie unterbringen (Vorsicht jedoch bei der erlaubten Zuladung geboten, wenn das Führerschein Klasse B Kriterium erfüllt bleiben soll). Eine Nasszelle mit Waschbecken und Dusche kann jedes Modell bietn, viele auch noch eine Dusche. Das Angebot ist auf den ersten Blick groß, wobei uns die Gewichtseinschränkung immer auf das untere Ende der Angebotsskala bringt. Hier gibt es dann im Bereich der Innenraumaufteilung und -gestaltung noch Unterschiede, sodass letztlich nur eine Handvoll Kandidaten übrig bleiben. Ein paar Kriterien, die verhindert haben, dass wir darin ein rundum passendes Modell identifiziert haben:
@@ -59,22 +59,22 @@ Als vielversprechendste Gattung bleibt also der **Caravan**, sprich Wohnanhänge
   * Weiterhin bleibt den meisten Modellen gemein, dass sie eine weitgehend "holzige" Gemütlichkeit schaffen wollen. Heißt: Schrankverschläge in Holzdekor an allen Ecken. Positive Abweichler in diesem Punkt: _Knaus Sport & Fun_ (lockert das ganze durch ein dunkles Petrol an den Möbeln und ansehnlchen Stoffen auf), wieder Sprite Basecamp (dezentes grau und Einhängetaschen statt Schranktüren) und die kleinen Sterckeman Starletts, die alles recht hell halten. Gardinen sind übrigens nicht unbedingt ein Thema. Verdunklung und Fliegenschutz werden heute in recht cleveren Rollos kombiniert, der Rest kann ohne Reue raus. Die Sperrholzausbauten von _Kompanja_ oder _bimobil_ haben uns richtig gut gefallen, gibt es aber in keinem Caravan.
   * Fast alle Caravans sehen von außen so aus, wie man es erwartet - weitgehend weiß, bieder und unruhig. _Knaus_ probiert bei _Sport & Fun_ und _Deseo_ ein bisschen an der Design-Schraube zu drehen, aber die Ergebnisse sind eher mau. Aus dem selben Hause kommt noch die Marke _T@b_, die mit ihren großen Teardrop-Anhängern etwas  wirklich sympathisches auf die kleinen Räder stellt. _Adria_ gibt sich bei seinen _Action_-Modellen Mühe, mit ansehmlichem aber dezentem Ergebnis. _Hymer_ schafft mit seinen _Eribas_ einen Bogen zum Design längst vergangener Jahrzehnte - anders, aber nicht unser Geschmack. So richtig vom Hocker gehauen hat uns keiner.
 
-![Adria Action](https://stngl.net/assets/2017-09/Camp - Adria Action.jpg)
+![Adria Action](https://stngl.net/assets/201709/Camp - Adria Action.jpg)
 _Adria Action - innen und außen recht frisches Design, tolles Merkmal ist das Panoramafenster in der Schräge, die Variante für vier (391 PH) weist eine sehr enge, halb-übereinander Anordnung der Schlafplätze auf; Preis ab 17.000 EUR_ [(c)Adria](http://de.adria-mobil.com/wohnwagen/action/)_
 
-![Knaus Deseo](https://stngl.net/assets/2017-09/Camp - Knaus Deseo.jpg)
+![Knaus Deseo](https://stngl.net/assets/201709/Camp - Knaus Deseo.jpg)
 _Knaus Deseo - einzigartiges Design mit großer Heckklappe (damit auch für Transportaufgaben gut geeignet) und innen überaus geräumig und schick, wenn auch in der neusten Variante etwas zugebaut; mit 4 Schlafplätzen, wenn man das höhenverstellbare Bett dazunimmt, leider mit unserem Auto außerhalb des zulässigen Gespanngewichts; Preis ab 20.000 EUR, mit ein paar sinnvollen und angepriesenen Extras aber schnell bei über 25.000 EUR_ [(c)Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/deseo/interieur/)
 
-![Knaus Travelino](https://stngl.net/assets/2017-09/Camp - Knaus Travelino.jpg)
+![Knaus Travelino](https://stngl.net/assets/201709/Camp - Knaus Travelino.jpg)
 _Knaus Travellion - fällt durch seinen absoluten Leichtbau auf, was unter anderem durch Möbel aus einem Schaumkunststoff erreicht wird. Innen schon typisch Wohnwagen; die vorderere Schräge kommt leider ohne Fenster daher, was das Draußengefühl schon sehr auf der Strecke bleiben lässt (auf der Messe wurde eine Studie mit Panoramafenster an dieser Stelle gezeigt); Preis ab 18.500 EUR_ [(c)Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/travelino/die-revolution/)
 
-![Knaus Sport&Fun](https://stngl.net/assets/2017-09/Camp - Knaus SportFun.jpg)
+![Knaus Sport&Fun](https://stngl.net/assets/201709/Camp - Knaus SportFun.jpg)
 _Knaus Sport&Fun - stellt ein recht interessantes Konzept dar. Eine große Hecktür, über dei Sportgerät verladen kann, Dachgepäckträger und recht viel Platz und Frische. Und er weist auch außen ein ungewöhnliches Design auf. Er kam zuerst kurz nach 2000 auf den Markt, verschwand dann wieder und wurde vor ein paar Jahren wiederbelebt. Das Problem ist, dass das Design irgendwie ein paar Jahre zurück geblieben ist - die Kunstoffapplikationen in schreiendem Blau sprechen einfach die falsche Sprache. Und diese Beschriftungen - wer lässt dieses Design auf die Straße!?_ [(c)Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/sport-fun/exterieur/) 
 
-![Sprite Basecamp](https://stngl.net/assets/2017-09/Camp - Sprite Basecamp.jpg)
+![Sprite Basecamp](https://stngl.net/assets/201709/Camp - Sprite Basecamp.jpg)
 _Sprite Basecamp - Hat uns von allen am besten gefallen, sehr pragmatsiche Innenausstattung, die wenig vom klassischen Wohnwagen hat, luftiges Gefühl, Taschen zum Einhängen statt Schranktüren, Tür hinten, sehr klein und gefällig, aber leider nur 2 Schlafpläte; Preis ab 22.000 EUR_ [(c)Caravan Trading Europe](http://www.spritecaravans.com/grundris_basecamp.html)
 
-![Sterckeman Starlet](https://stngl.net/assets/2017-09/Camp - Sterckeman Starlet.png)
+![Sterckeman Starlet](https://stngl.net/assets/201709/Camp - Sterckeman Starlet.png)
 _Starckeman Starlet - recht gewöhnliche Wohnwagenkost aus Frankreich, aber in kompakter Größe und einem angenehm hellen Innenraumdesign und geringen Anschaffungskosten; Preis 13.500 EUR_ [(c)Sterckeman](https://www.sterckeman-wohnwagen.de/reihen/starlett/)
 
 ## Ein paar Aspekte zum perfekten Produkt
@@ -83,34 +83,34 @@ Was in Kombination mit den oben formulierten Anforderungen am Markt nicht zu fin
 
 **Aufstelldach / Zusatzschlafplätze ausfaltbar** _LMC_ und _Hymer Eriba_ bieten Aufstelldächer, die entweder ein bisschen Zeltklima fabrizieren, oder zusätzliche Schlafplätze bieten. Das braucht keinerlei zusätzliche Grundfläche und kann nach Wunsch zum Einsatz kommen. Bei den "coleren", kleineren Modellen ist das leider nicht zu finden. Alle Vans bauen auf diese Methode und schaffen damit in der kleinsten Kiste tolle Schlafplätze, zu denen man nur ein bisschen klettern muss. 
 
-![Eriba Feeling](https://stngl.net/assets/2017-09/Camp - Aufstelldach Eriba Feeling.jpg)
+![Eriba Feeling](https://stngl.net/assets/201709/Camp - Aufstelldach Eriba Feeling.jpg)
 _Aufstelldach als Option für die Eriba Feeling Modelle_ [(c)Hymer Eriba](https://www.eriba.com/de/modelle/caravans/eriba-feeling/ausstattung/sonderausstattung.html)
 
-![Taxa Cricket](https://stngl.net/assets/2017-09/Camp - Taxa Cricket.jpg)
+![Taxa Cricket](https://stngl.net/assets/201709/Camp - Taxa Cricket.jpg)
 _Der Cricket von Taxa besteht zur Hälfte aus Zelt und kommt mit einem sehr rustikalem Charme daher; leider nur in den USA und mit Platz für zwei Erwachsene. Die Grundidee sollte sich aber prinzipiell auch für eine geräumigeere, pragmatische und sehr leichte Unterkunft eignen._ [(c)TAXA Outdoors, LLC](https://taxaoutdoors.com/ultra-light-trailers/cricket-camper-trailer/)
 
-![Air Opus Offroad](https://stngl.net/assets/2017-09/Camp - Opus Air.png)
+![Air Opus Offroad](https://stngl.net/assets/201709/Camp - Opus Air.png)
 _Eines der interessantesten Produkte auf der Messe, die Opus Zeltanhänger, schaffen aus einem kleinen Anhänger mit hilfe eines aufblasbaren Zelts eine Unterkunft mit einem Raumgefühl, dass dem jedes Caravans überlegen ist. In Kombination mit einem feststehenden Teil müsste sich hier doch was ziemlich interessantes konstruieren lassen_ [(c)Opus Camper UK](http://www.opuscamper.de/air-opus.html)
 
 **Ausbau Multiplex** - Wie oben schon erwähnt, laufen die meisten Wohnwagen einem gewissen Wohnzimmer-Charme hinterher, was mit Camping eigentlich nicht kompatibel ist. Die unbezahlbaren Kabinen von _Bimobil_ kommen mit einer simplen Echtholzeinrichtung einher, die ich mir auch für andere Reisemobile wünsche würde.
 
-![Bimobil innen](https://stngl.net/assets/2017-09/Camp - bimobil innen.jpg)
+![Bimobil innen](https://stngl.net/assets/201709/Camp - bimobil innen.jpg)
 _Bimobil Innenausstattung_ [(c)bimobil – von Liebe GmbH](http://www.bimobil.com/bimobil-system/inneneinrichtung/)
 
-![Kompanka innen](https://stngl.net/assets/2017-09/Camp - Kompanja innen.png)
+![Kompanka innen](https://stngl.net/assets/201709/Camp - Kompanja innen.png)
 _Innenausbau in den Vans von Kompanja aus Multiplex und obenauf Bambus - sehr natürlich, leicht und wohnlich_ [(c)Kompanja](https://www.kompanja.de/der-van/der-ausbau/)
 
 **Ausbau modular** - Bei den Vans ist es üblich, dass die Elemente modular sind. Sei es, um einen Alltagsnutzen zu ermöglichen, indem nicht benötigte Teile entfernt werden, oder um das Draußen besser einbeziehen zu können, zum Beispiel durch ein herausnehmbares Küchenmodul (Wer will schon immer im Fahrzeug brutzeln). Warum diesen Prinziep nicht in vernüftiger Weise für einen Anhänger verwenden? Küche oder Sitzgelegenheit nach Draußen wäre was Praktischees; ein Gästebett könnte temporär installiert werden 
 
-![Terracamper innen](https://stngl.net/assets/2017-09/Camp - Terracamper module.jpg)
+![Terracamper innen](https://stngl.net/assets/201709/Camp - Terracamper module.jpg)
 _Das innere des Tecamps von Terracamper ist deutlich von Modulen auf einem schienensystem geprägt._ [(c)TERRA-Camper](http://terracamper.de/fahrzeuge/volkswagen-bus/tecamp.html)
 
 **Großen Seitentür & Hecktüren** - Bis auf einige Ausnahmen haben die meisten Wohnwagen ein paar unterschiedlich große Fenster und eine kleine Tür als Verbindung nach Draußen. Im Endeffekt muss man sicher immer entscheiden: rein oder raus. Bauartbedingt scheinen Vans und Transporter viel weltoffener - Große Schiebetür, Aufstelldach und Heckklappe / Hecktüren. So kann man auch an der frischen Luft im Bett liegen und beim Kochen fast im Freien stehen. Das müsste sich doch 
 
-![Draußen im Kompanja](https://stngl.net/assets/2017-09/Camp - Draußen im Kompanja.png)
+![Draußen im Kompanja](https://stngl.net/assets/201709/Camp - Draußen im Kompanja.png)
 _Draußen im Kompanja_ [(c)Kompanja](https://www.kompanja.de/der-van/der-ausbau/)
 
-![Knaus Boxstar Drinnen](https://stngl.net/assets/2017-09/Camp - Knaus Boxstar Drinnen.png)
+![Knaus Boxstar Drinnen](https://stngl.net/assets/201709/Camp - Knaus Boxstar Drinnen.png)
 _Fast draußen im Knaus Boxstar_ [(c)Knaus Tabbert GbmH](https://www.knaus.com/de-de/kastenwagen/boxstar-630/highlights/)
 
 ## Ausgang der Geschichte
