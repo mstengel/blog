@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warum die größte Caravan-Messe nicht genug war.
+title: Warum die größte Caravan-Messe nicht genug war
 categories: [article]
 tags: [outdoor, travel]
 description: Draußensein gehört für uns zum Urlaub dazu. Ein paar Mal waren wir zusammen Zelten und sind begeistert von der Nähe zum Drumherum, den Menschen, die man dabei kennenlernen kann und dem auf das Nötigste reduzierte Lebensstandard. Einige Gedanken über ein mögliches Reisemobil, den Besuch der größten Caravan-Messe in Düsseldorf, die gewonnenen Eindrücke und ein Ergebnis, dass sich eben nicht im Rahmen dieser Ausstellung ergeben hat, wo doch meinen sollte, dass _alle_ Wünsche erfüllbar sind.
@@ -9,7 +9,7 @@ comments: true
 
 Draußensein gehört für uns zum Urlaub dazu. Ein paar Mal waren wir zusammen Zelten und sind begeistert von der Nähe zum Drumherum, den Menschen, die man dabei kennenlernen kann und dem auf das Nötigste reduzierte Lebensstandard. Jedoch: eine richtige Routine haben wir noch nicht entwickelt. Routine in dem Sinne, dass wir das jedes Jahr machen würden, genau wüssten wie und womit und unsere Liste an erreichten Zielen jetzt einfach und kontinuierlich um neue Destinationen erweitern würden. Ein bisschen liegt das am Wetter in Zentraleuropa, das zuletzt nicht gerade mit planungssicheren Sommern aufwartet - Janne ist recht temperaturempfindlich und braucht es am liebsten eine Spur zu heiß, damit sie sich so richtig wohlfühlt. Und Regen ist für niemanden, der draußen übernachtet, schön. So wuchs der Gedanke an ein etwas massiveres Outdoor-Gehäuse á la Reisemobil (Oberbegriff).
 
-![draußen](https://stngl.net/assets/201709/Camp-draussen.JPG)
+![draußen](https://stngl.net/assets/201709/Camp - draussen.JPG)
 
 Im Hinterkopf angesammelte Vorteile:
   * Gutes Bett, dass es an einem Migränetag notfalls erlaubt den ganzen Tag darin zu verbringen und das Urlaubsgefühl nicht ganz auf ein Minimum zu reduzieren. Nebenbei bietet ein Reisemobil auch Rückzugsraum für Kälte oder Regen, was Zelte in aufrechter Haltung erst ab einer ziemlichen Größe erlauben.
@@ -66,7 +66,7 @@ _Adria Action - innen und außen recht frisches Design, tolles Merkmal ist das P
 _Knaus Deseo - einzigartiges Design mit großer Heckklappe (damit auch für Transportaufgaben gut geeignet) und innen überaus geräumig und schick, wenn auch in der neusten Variante etwas zugebaut; mit 4 Schlafplätzen, wenn man das höhenverstellbare Bett dazunimmt, leider mit unserem Auto außerhalb des zulässigen Gespanngewichts; Preis ab 20.000 EUR, mit ein paar sinnvollen und angepriesenen Extras aber schnell bei über 25.000 EUR_ [(c)Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/deseo/interieur/)
 
 ![Knaus Travelino](https://stngl.net/assets/201709/Camp - Knaus Travelino.jpg)
-_Knaus Travellion - fällt durch seinen absoluten Leichtbau auf, was unter anderem durch Möbel aus einem Schaumkunststoff erreicht wird. Innen schon typisch Wohnwagen; die vorderere Schräge kommt leider ohne Fenster daher, was das Draußengefühl schon sehr auf der Strecke bleiben lässt (auf der Messe wurde eine Studie mit Panoramafenster an dieser Stelle gezeigt); Preis ab 18.500 EUR_ [(c)Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/travelino/die-revolution/)
+_Knaus Travellino - fällt durch seinen absoluten Leichtbau auf, was unter anderem durch Möbel aus einem Schaumkunststoff erreicht wird. Innen schon typisch Wohnwagen; die vorderere Schräge kommt leider ohne Fenster daher, was das Draußengefühl schon sehr auf der Strecke bleiben lässt (auf der Messe wurde eine Studie mit Panoramafenster an dieser Stelle gezeigt); Preis ab 18.500 EUR_ [(c)Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/travelino/die-revolution/)
 
 ![Knaus Sport&Fun](https://stngl.net/assets/201709/Camp - Knaus SportFun.jpg)
 _Knaus Sport&Fun - stellt ein recht interessantes Konzept dar. Eine große Hecktür, über dei Sportgerät verladen kann, Dachgepäckträger und recht viel Platz und Frische. Und er weist auch außen ein ungewöhnliches Design auf. Er kam zuerst kurz nach 2000 auf den Markt, verschwand dann wieder und wurde vor ein paar Jahren wiederbelebt. Das Problem ist, dass das Design irgendwie ein paar Jahre zurück geblieben ist - die Kunstoffapplikationen in schreiendem Blau sprechen einfach die falsche Sprache. Und diese Beschriftungen - wer lässt dieses Design auf die Straße!?_ [(c)Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/sport-fun/exterieur/) 
