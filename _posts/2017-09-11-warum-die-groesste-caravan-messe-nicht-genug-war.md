@@ -66,13 +66,16 @@ _Knaus Deseo - einzigartiges Design mit großer Heckklappe (damit auch für Tran
 ![Knaus Travelino](https://stngl.net/assets/2017-09/Knaus - Travelino.jpg)
 _Knaus Travellion - fällt durch seinen absoluten Leichtbau auf, was unter anderem durch Möbel aus einem Schaumkunststoff erreicht wird. Innen schon typisch Wohnwagen; die vorderere Schräge kommt leider ohne Fenster daher, was das Draußengefühl schon sehr auf der Strecke bleiben lässt (auf der Messe wurde eine Studie mit Panoramafenster an dieser Stelle gezeigt); Preis ab 18.500 EUR_ (c) [Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/travelino/die-revolution/)
 
+![Knaus Sport&Fun](https://stngl.net/assets/2017-09/Camp - Knaus SportFun.jpg)
+_Knaus Sport&Fun - stellt ein recht interessantes Konzept dar. Eine große Hecktür, über dei Sportgerät verladen kann, Dachgepäckträger und recht viel Platz und Frische. Und er weist auch außen ein ungewöhnliches Design auf. Er kam zuerst kurz nach 2000 auf den Markt, verschwand dann wieder und wurde vor ein paar Jahren wiederbelebt. Das Problem ist, dass das Design irgendwie ein paar Jahre zurück geblieben ist - die Kunstoffapplikationen in schreiendem Blau sprechen einfach die falsche Sprache. Und diese Beschriftungen - wer lässt dieses Design auf die Straße!?_ (c) [Knaus Tabbert GbmH](https://www.knaus.com/de-de/caravans/sport-fun/exterieur/) 
+
 ![Sprite Basecamp](https://stngl.net/assets/2017-09/Camp - Sprite Basecamp.jpg)
 _Sprite Basecamp - Hat uns von allen am besten gefallen, sehr pragmatsiche Innenausstattung, die wenig vom klassischen Wohnwagen hat, luftiges Gefühl, Taschen zum Einhängen statt Schranktüren, Tür hinten, sehr klein und gefällig, aber leider nur 2 Schlafpläte; Preis ab 22.000 EUR_ (c) [Caravan Trading Europe](http://www.spritecaravans.com/grundris_basecamp.html)
 
 ![Sterckeman Starlet](https://stngl.net/assets/2017-09/Camp - Sterckeman Starlet.png)
 _Starckeman Starlet - recht gewöhnliche Wohnwagenkost aus Frankreich, aber in kompakter Größe und einem angenehm hellen Innenraumdesign und geringen Anschaffungskosten; Preis 13.500 EUR_ (c) [Sterckeman](https://www.sterckeman-wohnwagen.de/reihen/starlett/)
 
-## Perfektes Produkt
+## Ein paar Aspekte zum perfekten Produkt
 
 Was in Kombination mit den oben formulierten Anforderungen am Markt nicht zu finden ist:
 
@@ -95,10 +98,18 @@ _Bimobil Innenausstattung_ (c) [bimobil – von Liebe GmbH](http://www.bimobil.c
 ![Kompanka innen](https://stngl.net/assets/2017-09/Camp - Kompanja innen.png)
 _Innenausbau in den Vans von Kompanja aus Multiplex und obenauf Bambus - sehr natürlich, leicht und wohnlich (c) [Kompanja](https://www.kompanja.de/der-van/der-ausbau/)
 
-**Ausbau modular**
+**Ausbau modular** - Bei den Vans ist es üblich, dass die Elemente modular sind. Sei es, um einen Alltagsnutzen zu ermöglichen, indem nicht benötigte Teile entfernt werden, oder um das Draußen besser einbeziehen zu können, zum Beispiel durch ein herausnehmbares Küchenmodul (Wer will schon immer im Fahrzeug brutzeln). Warum diesen Prinziep nicht in vernüftiger Weise für einen Anhänger verwenden? Küche oder Sitzgelegenheit nach Draußen wäre was Praktischees; ein Gästebett könnte temporär installiert werden 
 
-**Großen Seitentür & Hecktüren**
-**Gestaltung Expeditionskabine**
+![Terracamper innen](https://stngl.net/assets/2017-09/Camp - Terracamper module.jpg)
+_Das innere des Tecamps von Terracamper ist deutlich von Modulen auf einem schienensystem geprägt._ (c) [TERRA-Camper](http://terracamper.de/fahrzeuge/volkswagen-bus/tecamp.html)
+
+**Großen Seitentür & Hecktüren** - Bis auf einige Ausnahmen haben die meisten Wohnwagen ein paar unterschiedlich große Fenster und eine kleine Tür als Verbindung nach Draußen. Im Endeffekt muss man sicher immer entscheiden: rein oder raus. Bauartbedingt scheinen Vans und Transporter viel weltoffener - Große Schiebetür, Aufstelldach und Heckklappe / Hecktüren. So kann man auch an der frischen Luft im Bett liegen und beim Kochen fast im Freien stehen. Das müsste sich doch 
+
+![Draußen im Kompanja](https://stngl.net/assets/2017-09/Camp - Draußen im Kompanja.png)
+_Draußen im Kompanja (c) [Kompanja](https://www.kompanja.de/der-van/der-ausbau/)
+
+![Knaus Boxstar Drinnen](https://stngl.net/assets/2017-09/Camp - Knaus Boxstar Drinnen.png)
+_Fast draußen im Knaus Boxstar (c) [Knaus Tabbert GbmH](https://www.knaus.com/de-de/kastenwagen/boxstar-630/highlights/)
 
 ## Ausgang der Geschichte
 
