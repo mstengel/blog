@@ -3,6 +3,7 @@ layout: post
 title: Draußen gut leben
 categories: [article]
 tags: [outdoor, travel]
+description: Für den diesjährigen Urlaub haben wir uns dafür entschieden uns sanft dem Outdoor-Thema zu nähern.  Was kann einen dazu bewegen die entspanntesten Wochen im Jahr in einem Stück Plane zu verbringen und dies einem Hotel vorziehen? Die Idee dazu kam uns erst jüngst und ist für uns womöglich erst der Beginn einer der schönsten Formen dem Alltag wirkliche Freiheit und Entspannung entgegenzusetzen.
 comments: true
 ---
 
@@ -11,7 +12,6 @@ Für den diesjährigen Urlaub haben wir uns dafür entschieden uns sanft dem Out
 ![Lager Fläming](https://stngl.net/assets/201308/01Z - P1140336.JPG)
 _Lager Fläming_
 
-<!--more-->
 ## Das Zelten an sich
 
 Der geplante Zeitraum des Urlaubs kam näher, aber weder meine Frau noch ich hatten die große Reiseidee, die für dem amderem unbedingt nach Umsetzung schrie. Und so verstrichen die Wochen, in die auch - einer Freundin zuliebe - ein Zeltwochenende an der Ostsee fiel. Auf dem Fundament dieser feinen Sache ergab sich der Plan doch auch den ganzen Urlaub so zu verbringen, einen Teil des Budgets in notwendige Ausrünstungsergänzungen zu investieren und dafür gleich mehrere Stationen anzusteuern.
