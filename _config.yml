@@ -16,7 +16,6 @@ author:
   url:            http://blog.stngl.net
 
 paginate:          10
-excerpt_separator: <!-- more --> 
 
 # Custom vars
 version:          2.1.0
