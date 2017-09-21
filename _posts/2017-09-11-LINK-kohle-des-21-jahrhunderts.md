@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die Kohle des 21. Jahrhunderts
+title: ♻ Die Kohle des 21. Jahrhunderts
 categories: [snippet]
 tags: [online, changingtheworld] 
 comments: true
