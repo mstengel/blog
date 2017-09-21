@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Wieder mal Windows ...
-categories: [snippet]
-tags: [it, windows, jwtech] 
+categories: [jwtech]
+tags: [it, windows] 
 comments: true
 ---
 
