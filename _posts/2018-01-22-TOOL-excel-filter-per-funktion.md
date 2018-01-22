@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ⚒ Excel: Filtern per Funktion
+title: ⚒ Excel | Filtern per Funktion
 categories: [snippet]
-tags: [technology, application, excel]
+tags: [technology, application, excel] 
 comments: true
 ---
 
