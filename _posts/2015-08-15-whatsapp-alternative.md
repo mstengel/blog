@@ -65,4 +65,17 @@ Auch wenn E-Mail so vieles kann und keine Grenzen kennt, ist bei den hier vorges
 
 Für den kleinen Plausch im Alltag, Organisatorisches, Aufschlussreiches und sonst alles, was man mir zu sagen hat, ist mir also die E-Mail fortan sehr willkommen. Für Empfänger, die sich dieser Sichtweise noch nicht bewusst sind (und ihre sporadischen WhatsApp Nachrichten niedlicherweise mit "Hallo ..." beginnen und mit "LG ..." beenden) , könnte es etwas rau daher kommen, wenn in ihrer desktopartigen E-Mail-Umgebung ein Nachricht landet, die aus nur einem Absatz besteht und ohne Gruß und Verabschiedung daherkommt.
 
+## Update (26-Feb-2019)
+
+Die Idee lebt weiter und weitere Anwendungen sind verfügbar. Zum einen stellt ein gewisser Rafael Laguna, der als Open-Xchange CEO überaus tief im Thema E-Mail steckt, seinen Ansatz unter dem Kürzel COI (Chat over IMAP) vor. 
+
+> COI uses an email address and any IMAP server as its infrastructure. This means it can already connect 3.8 billion users - anyone with an email address. Developers can now concentrate on building clients for any device, in any language (Java, Swift, JavaScript, Dart, Kotlin, etc.), and let COI handle the communication.
+[[coi-dev.org](https://www.coi-dev.org/)]
+
+Bis dato eher eine Philosophie, die einlädt Entsprechendes zu entwickeln, aber mit dem Kern der oben geäußerten Überlegungen kongruent ist. Das IMAP-Handling soll dabei, wie das Manifest auf der COI-Website mitteilt, vom [Delta Chat Core](https://github.com/deltachat/deltachat-core) übernommen werden. Hoffen wir mal, dass die Entwicklung richtig losgeht.
+
+Aufsetzend darauf gibt es aber auch schon eine App - [Delta Chat](https://delta.chat/de/), die sich sofort mit beliebigen IMAP-Postfächern gebrauchen lässt und so die gute alte E-Mail ins gewohnte WhatsApp-Gewand kleidet - ganz egal, ob die Gegenstelle es auch so benutzt oder sich in einer klassischen E-Mail-Umgebung bewegt. Noch trägt die Versionsnummer eine deutliche 0 vorne, aber ich hoffe, dass dieser Ansatz wächst und gedeiht.
+
+[![DeltaChat](https://lh3.googleusercontent.com/4Klg6ZAF6YjVqNa20QQkaRs0IsLyGKdUsU5WWJmuQi9wxo9poOz-l6CLwZzd0NBzIw=w1833-h1104)](https://play.google.com/store/apps/details?id=chat.delta)
+
 _Updated: 22-Sept-2017_
