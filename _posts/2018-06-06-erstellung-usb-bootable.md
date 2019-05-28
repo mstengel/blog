@@ -7,6 +7,8 @@ description: Eine Notiz für mich, wenn ich mal wieder ein Betriebssystem instal
 comments: true
 ---
 
+**Update: Um ein bootbares Medium mit Windows 10 zu erstellen, klappt das nicht, wie bisher beschrieben. Unten wurde daher der Hinweis darauf ergänzt, die dann vorzugehen ist.**
+
 ## Pfad des USB-Sticks herausfinden
 
 First plug in your USB-Stick.
@@ -39,3 +41,11 @@ Run the following command, replacing `/dev/sdx` with your drive, e.g. `/dev/sdb`
     dd bs=4M if=/path/to/archlinux.iso of=/dev/sdx status=progress oflag=sync
 
 [via [archlinux.org](https://wiki.archlinux.org/index.php/USB_flash_installation_media) ]
+
+## Windows-Installationsmedium
+
+Ohne partition table und entsprechendem File-System geht da nichts. Daher hier zwei hilfreiche Links USB-Medien zu erstellen, die über MBR oder UEFI booten.
+
+This guide works on any Linux distribution as long as it has GRUB and GParted installed and can make bootable USB for any Windows version newer than Vista: Windows Vista, Windows 7, Windows 8, Windows 8.1 and Windows 10. UEFI boot is only supported for Windows 7 x64 and newer: [Make a bootable Windows USB from Linux](https://www.onetransistor.eu/2014/09/make-bootable-windows-usb-from-ubuntu.html) [@onetransistor.eu](https://www.onetransistor.eu)
+
+However that method is unusable in some cases where install.wim is larger than 4 GB. We will make two partitions on the USB drive, one that is FAT32 and will hold an EFI bootloader and the other is NTFS and holds Windows installation files. The bootloader will use a NTFS driver to read the NTFS partition and boot Windows. [UEFI NTFS: Bootable Windows USB from Linux](https://www.onetransistor.eu/2015/09/uefi-ntfs-bootable-windows-usb-linux.html) [@onetransistor.eu](https://www.onetransistor.eu)
