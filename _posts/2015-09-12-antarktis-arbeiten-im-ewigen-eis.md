@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ♻ Antarktis: Arbeiten im ewigen Eis
+title: ♻ Antarktis - Arbeiten im ewigen Eis
 categories: [snippet]
 tags: [science, goodjournalism]
 description: Tolle Reportage über Forscher an vorderster Front. Hochinteressant und sehr gut gemacht.﻿
